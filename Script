@@ -1,0 +1,17 @@
+getgenv().RecurringPoint = "UpperTorso"
+getgenv().Hitbox = "UpperTorso"
+getgenv().Keybind = "q"
+getgenv().AimbotStrengthAmount = 1
+getgenv().PredictionAmount = 15
+getgenv().Radius = 50
+getgenv().UsePrediction = true
+getgenv().AimbotStrength = true
+getgenv().FirstPerson = true
+getgenv().ThirdPerson = true
+getgenv().TeamCheck = false
+getgenv().Enabled = true
+
+
+loadstring(game:HttpGet("Paste Our Script Me and Tenaki :)"))()
+
+Private Script
